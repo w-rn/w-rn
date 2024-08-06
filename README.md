@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://64.media.tumblr.com/704af76bea2904dc04640bb1b509a9ad/acfa19661fd4a22f-8c/s500x750/34c9e673dbb98ac49120c65d096863a733d3f53e.gifv"" class="center">
+<img src="https://64.media.tumblr.com/747fe05f469b3310488ad6ea7309cb02/ada84b667b64f573-79/s2048x3072/86972b6169ddca3d999615bcc3a3655f3464901d.pnj"" class="center">
 </p>
 
 <p align="center">
@@ -17,4 +17,4 @@
 
   
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=your-github-w-rn&color=deb787&abbreviated=true&label=my_lovelies ">
+  <img src="https://komarev.com/ghpvc/?username=your-github-w-rn&color=ee2357&abbreviated=true&label=views ">
