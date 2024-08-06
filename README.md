@@ -10,4 +10,6 @@
 </p> 
 
   <img src="https://komarev.com/ghpvc/?username=your-github-w-rn&color=deb787&abbreviated=true&label=my_lovelies ">
-editing
+<p align="center">
+<a href="https://worn.straw.page">strawpage</a>
+</p>
