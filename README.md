@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://worn.straw.page">strawpage</a> - <a href="https://worn.atabook.org">atabook</a>
+<a href="https://worn.straw.page">strawpage</a> + <a href="https://worn.atabook.org">atabook</a>
 </p>
 
 
