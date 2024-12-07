@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src=https://64.media.tumblr.com/a6918ff262fc65990bcad41e9a1f0f65/ecefbd0890414f80-bf/s1280x1920/e0bea4a64c3ff788a8d0356aae8e4e8200038cad.gifv"()
+<img src="https://64.media.tumblr.com/a6918ff262fc65990bcad41e9a1f0f65/ecefbd0890414f80-bf/s1280x1920/e0bea4a64c3ff788a8d0356aae8e4e8200038cad.gifv"()
 " class="center">
 </p>
 
